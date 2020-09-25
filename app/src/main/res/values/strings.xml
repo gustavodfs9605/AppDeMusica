@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Tienda_De_Musica</string>
+    <string name="app_name">Tienda de musica</string>
+    <string name="button1ActivityMain">Cargar Artista</string>
+    <string name="button2ActivityMain">Ver Artistas</string>
 </resources>
